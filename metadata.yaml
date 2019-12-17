@@ -1,5 +1,5 @@
 _repo: The-Sportsman-s-Club-in-the-Saddle_60890
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   engineer:
     agent_name: Faber, Hermann
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1913
     gutenberg_agent_id: '51103'
     url: http://www.gutenberg.org/2009/agents/51103
+covers:
+- cover_type: archival
+  image_path: 60890-h/images/cover.jpg
 creator:
   author:
     agent_name: Castlemon, Harry
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2274
     wikipedia: https://en.wikipedia.org/wiki/Harry_Castlemon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60890#The-Sportsman-s-Club-in-the-Saddle
 gutenberg_issued: '2019-12-10'
 gutenberg_type: Text
 identifiers:
